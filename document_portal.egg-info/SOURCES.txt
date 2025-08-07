@@ -1,3 +1,4 @@
+LICENSE
 README.md
 setup.py
 document_portal.egg-info/PKG-INFO
